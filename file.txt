@@ -1,2 +1,3 @@
 added from outside repository after git initialization
 added: second line
+added:3rd l
