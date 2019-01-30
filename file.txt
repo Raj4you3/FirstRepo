@@ -1,1 +1,2 @@
 added from outside repository after git initialization
+added: second line
